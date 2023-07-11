@@ -18,5 +18,6 @@ These are my hobbies
 
   **Companies:** ENGS, Radix, TaborTools, MedicServe.
 
-**Content Writing (UX, Design):** Formal & Informal content for websites, advertisements, posters, webinar designs, etc. 
-**Companies:** Hacktivity, SafeSchool, SpeakersProgram, ETAI, 
+- **Content Writing (UX, Design):** Formal & Informal content for websites, advertisements, posters, webinar designs, etc. 
+
+**Companies:** ENGS, Hacktivity, SafeSchool, SpeakersProgram, ETAI. 
