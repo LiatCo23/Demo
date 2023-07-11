@@ -13,3 +13,10 @@ These are my hobbies
 - Reading
 
   [(https://sites.google.com/d/1ig_jIdoazV86DSSA_s9UAk5jddWfAnK4/p/11jggthA7mw5JyzvGybZReMZQbyc8Wh03/edit)]
+## My professional experience
+- **Technical Writing:** User manuals, FQAs, Instructional videos, Technical content for websites.
+
+  **Companies:** ENGS, Radix, TaborTools, MedicServe.
+
+**Content Writing (UX, Design):** Formal & Informal content for websites, advertisements, posters, webinar designs, etc. 
+**Companies:** Hacktivity, SafeSchool, SpeakersProgram, ETAI, 
