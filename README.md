@@ -21,3 +21,6 @@ These are my hobbies
 - **Content Writing (UX, Design):** Formal & Informal content for websites, advertisements, posters, webinar designs, etc. 
 
 **Companies:** ENGS, Hacktivity, SafeSchool, SpeakersProgram, ETAI. 
+
+[https://www.istockphoto.com/photo/picturesque-morning-in-plitvice-national-park-colorful-spring-scene-of-green-forest-gm1093110112-293349147] 
+
